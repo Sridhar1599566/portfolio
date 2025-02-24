@@ -3,13 +3,13 @@
 
 **Company**: CODETECH IT SOLUTIONS  
 
-**Name**  : SHYAM KUMAR V 
+**Name**  : B SRIDHAR
 
-**Id**: CT08EOR 
+**Id**: CT08UTI 
 
 **Domain**: FRONTEND WEB DEVELOPMENT   
 
-**Batch Duration**: Dec 17th 2024 to Jan 17th, 2025 
+**Batch Duration**FEB 15 2025 TO MAR 15 2025 
 
 **Mentor Name** : NEELA SANTHOSH
 
